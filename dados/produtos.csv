@@ -1,0 +1,15 @@
+produto_id,nome,marca_id,tipo,margem_pct
+P001,Conta Corrente Premium,1,Deposito,1.2
+P002,Credito Habitacao,1,Credito,3.5
+P003,Credito Pessoal,1,Credito,8.2
+P004,Deposito a Prazo 5pct,1,Deposito,2.1
+P005,Cartao Platinum,1,Cartao,5.8
+P006,Seguro Vida Premium,2,Seguro Vida,22.0
+P007,Seguro Automovel,2,Seguro Auto,18.5
+P008,Seguro Habitacao,2,Seguro Habitacao,20.0
+P009,Seguro Saude Empresarial,2,Seguro Saude,25.0
+P010,Fundo Acoes PT,3,Fundo,1.5
+P011,Fundo Obrigacoes Europa,3,Fundo,0.8
+P012,Fundo Imobiliario,3,Fundo,2.0
+P013,Carteira Discricionaria,3,Gestao,1.2
+P014,PPR Reforma 2050,3,Poupanca,1.0
