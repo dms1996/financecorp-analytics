@@ -57,12 +57,12 @@ financecorp-analytics/
 │   └── AurumCap_Power_BI.pbix           
 │
 ├── relatorio/
-│   └── relatorio_aurumcap_2022_2024.docx  ← Relatório Word profissional (9 capítulos)
+│   └── relatorio_aurumcap_2022_2024.docx  
 │
 ├── apresentacao/
-│   └── apresentacao_aurumcap_2022_2024.pptx  ← PowerPoint (12 slides, design executivo)
+│   └── apresentacao_aurumcap_2022_2024.pptx  
 │
-└── README.md                       ← Este ficheiro
+└── README.md                       
 ```
 
 ---
@@ -105,18 +105,6 @@ financecorp-analytics/
 
 ---
 
-## Como Reproduzir o Projeto
-
-### Pré-requisitos
-```
-Python 3.9+
-pip install pandas numpy matplotlib seaborn openpyxl
-Node.js 18+
-npm install -g docx pptxgenjs
-```
-
----
-
 ## Competências Demonstradas
 
 **Dados e ETL**
@@ -143,6 +131,14 @@ npm install -g docx pptxgenjs
 - Relatório Word com gráficos embebidos
 - Apresentação executiva PowerPoint com design profissional
 - Narrativa de dados orientada a negócio
+
+---
+## Dashboard Power BI
+
+![Dashboard Geral 2024](outputs/dashboard_geral_2024.png)
+![Dashboard Produto 2024](outputs/dashboard_produto_2024.png)
+![Dashboard Crescimento Total](outputs/dashboard_crescimento_total.png)
+![Dashboard Crescimento Investimento Q2](outputs/dashboard_crescimento_Inv_Q2.png)
 
 ---
 
