@@ -48,7 +48,11 @@ financecorp-analytics/
 │   ├── 04_mix_produto.png
 │   ├── 05_receita_cidade.png
 │   ├── 06_kpi_cards_2024.png
-│   └── 07_crescimento_yoy.png
+│   ├── 07_crescimento_yoy.png
+│   ├── 08_dashboard_geral_2024.png
+│   ├── 09_dashboard_produto_2024.png
+│   ├── 10_dashboard_crescimento_total.png
+│   └── 11_dashboard_crescimento_Inv_Q2.png
 │
 ├── excel/
 │   └── dashboard_aurumcap.xlsx      
@@ -57,10 +61,10 @@ financecorp-analytics/
 │   └── AurumCap_Power_BI.pbix           
 │
 ├── relatorio/
-│   └── relatorio_aurumcap_2022_2024.docx  
+│   └── AurumCap_Relatorio_Estrategico.pdf
 │
 ├── apresentacao/
-│   └── apresentacao_aurumcap_2022_2024.pptx  
+│   └── AurumCap_Apresentacao_Estrategica_2024.pdf 
 │
 └── README.md                       
 ```
@@ -85,7 +89,7 @@ financecorp-analytics/
 
 | Indicador | Valor |
 |---|---|
-| **Receita Total (2022–2024)** | €1.846.099 |
+| **Receita Total (2024)** | €1.846.099 |
 | **Lucro Bruto Total** | €777.869 |
 | **Margem de Lucro Média** | 45,1% |
 | **Total de Transações** | 952 |
@@ -135,10 +139,10 @@ financecorp-analytics/
 ---
 ## Dashboard Power BI
 
-![Dashboard Geral 2024](outputs/dashboard_geral_2024.png)
-![Dashboard Produto 2024](outputs/dashboard_produto_2024.png)
-![Dashboard Crescimento Total](outputs/dashboard_crescimento_total.png)
-![Dashboard Crescimento Investimento Q2](outputs/dashboard_crescimento_Inv_Q2.png)
+![Dashboard Geral 2024](outputs/08_dashboard_geral_2024.png)
+![Dashboard Produto 2024](outputs/09_dashboard_produto_2024.png)
+![Dashboard Crescimento Total](outputs/10_dashboard_crescimento_total.png)
+![Dashboard Crescimento Investimento Q2](outputs/11_dashboard_crescimento_Inv_Q2.png)
 
 ---
 
@@ -150,4 +154,4 @@ financecorp-analytics/
 
 ---
 
-*AurumCap Grupo Financeiro · Projeto de Portfolio · Data Analytics · Janeiro 2025*
+dms1996 *AurumCap Grupo Financeiro · Projeto de Portfolio · Data Analytics · Janeiro 2025*
