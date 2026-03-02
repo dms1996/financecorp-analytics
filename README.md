@@ -154,4 +154,4 @@ financecorp-analytics/
 
 ---
 
-dms1996 *AurumCap Grupo Financeiro · Projeto de Portfolio · Data Analytics · Janeiro 2025*
+*dms1996 · AurumCap Grupo Financeiro · Projeto de Portfolio · Data Analytics · Janeiro 2026*
