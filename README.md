@@ -81,19 +81,8 @@ financecorp-analytics/
 | **Total de Transações** | 2.800 |
 | **Crescimento 2024 vs 2023** | +30,3% |
 | **Período de dados** | Jan 2022 – Dez 2024 |
-
----
-
-## KPIs do Dataset (ano 2024)
-
-| Indicador | Valor |
-|---|---|
 | **Receita Total (2024)** | €1.846.099 |
-| **Lucro Bruto Total** | €777.869 |
-| **Margem de Lucro Média** | 45,1% |
-| **Total de Transações** | 952 |
-| **Crescimento 2024 vs 2023** | +30,3% |
-| **Período de dados** | Jan 2024 – Dez 2024 |
+| **Lucro Bruto Total (2024)** | €777.869 |
 
 ---
 
