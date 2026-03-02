@@ -79,7 +79,6 @@ financecorp-analytics/
 | **Lucro Bruto Total** | €2.035.151 |
 | **Margem de Lucro Média** | 45,1% |
 | **Total de Transações** | 2.800 |
-| **Clientes Únicos** | 42 |
 | **Crescimento 2024 vs 2023** | +30,3% |
 | **Período de dados** | Jan 2022 – Dez 2024 |
 
@@ -93,7 +92,6 @@ financecorp-analytics/
 | **Lucro Bruto Total** | €777.869 |
 | **Margem de Lucro Média** | 45,1% |
 | **Total de Transações** | 952 |
-| **Clientes Únicos** | 608 |
 | **Crescimento 2024 vs 2023** | +30,3% |
 | **Período de dados** | Jan 2024 – Dez 2024 |
 
@@ -142,7 +140,6 @@ financecorp-analytics/
 ![Dashboard Geral 2024](outputs/08_dashboard_geral_2024.png)
 ![Dashboard Produto 2024](outputs/09_dashboard_produto_2024.png)
 ![Dashboard Crescimento Total](outputs/10_dashboard_crescimento_total.png)
-![Dashboard Crescimento Investimento Q2](outputs/11_dashboard_crescimento_Inv_Q2.png)
 
 ---
 
