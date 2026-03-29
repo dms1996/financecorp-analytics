@@ -1,0 +1,91 @@
+cliente_id,nome,cidade,segmento,marca_id,data_adesao,ativo
+C0001,Ana Silva,Coimbra,Particular,1,2021-03-24,True
+C0001,Ana Silva,Viseu,Particular,3,2021-10-14,True
+C0001,Ana Silva,Lisboa,Particular,2,2021-04-08,True
+C0002,Rui Costa,Leiria,Private Banking,1,2022-01-25,True
+C0002,Rui Costa,Setubal,Private Banking,2,2022-05-05,True
+C0002,Rui Costa,Faro,Private Banking,3,2021-02-13,True
+C0003,Maria Ferreira,Lisboa,PME,2,2022-09-04,False
+C0003,Maria Ferreira,Porto,PME,3,2022-11-20,True
+C0004,Joao Santos,Coimbra,PME,1,2022-02-28,True
+C0004,Joao Santos,Porto,PME,3,2022-05-15,True
+C0004,Joao Santos,Braga,PME,2,2022-06-07,True
+C0005,Carlos Oliveira,Viseu,Particular,3,2021-03-15,False
+C0005,Carlos Oliveira,Aveiro,Particular,1,2021-11-11,True
+C0005,Carlos Oliveira,Coimbra,Particular,2,2021-06-13,True
+C0006,Ines Rodrigues,Evora,Particular,1,2022-04-21,False
+C0007,Pedro Martins,Braga,Particular,3,2022-03-08,True
+C0007,Pedro Martins,Evora,Particular,2,2022-10-13,True
+C0008,Sofia Sousa,Viseu,Corporate,1,2022-02-25,True
+C0009,Miguel Lopes,Braga,PME,1,2022-10-03,False
+C0010,Beatriz Pinto,Viseu,PME,3,2022-09-28,True
+C0010,Beatriz Pinto,Porto,PME,2,2022-11-11,True
+C0011,Luis Carvalho,Leiria,Particular,2,2021-12-24,True
+C0011,Luis Carvalho,Viseu,Particular,1,2021-09-04,True
+C0012,Catarina Alves,Faro,Private Banking,3,2021-09-25,True
+C0012,Catarina Alves,Evora,Private Banking,1,2022-08-01,True
+C0012,Catarina Alves,Faro,Private Banking,2,2022-04-02,True
+C0013,Nuno Pereira,Porto,Corporate,1,2021-03-22,False
+C0013,Nuno Pereira,Viseu,Corporate,3,2021-05-17,False
+C0013,Nuno Pereira,Coimbra,Corporate,2,2021-12-10,False
+C0014,Filipa Gomes,Viseu,Particular,3,2022-02-08,True
+C0014,Filipa Gomes,Porto,Particular,2,2022-01-19,True
+C0014,Filipa Gomes,Evora,Particular,1,2021-01-03,True
+C0015,Tiago Ribeiro,Lisboa,Particular,1,2022-02-17,True
+C0016,Mariana Fernandes,Coimbra,Particular,3,2021-12-19,False
+C0016,Mariana Fernandes,Coimbra,Particular,2,2022-07-07,True
+C0017,Andre Correia,Setubal,Particular,3,2022-07-14,False
+C0018,Claudia Marques,Setubal,Particular,1,2022-02-08,True
+C0018,Claudia Marques,Coimbra,Particular,3,2022-03-14,True
+C0018,Claudia Marques,Aveiro,Particular,2,2022-04-28,True
+C0019,Bruno Vieira,Lisboa,Particular,3,2021-02-25,True
+C0019,Bruno Vieira,Braga,Particular,1,2022-08-16,True
+C0020,Leonor Cruz,Setubal,Particular,1,2021-07-09,False
+C0020,Leonor Cruz,Aveiro,Particular,3,2022-12-24,False
+C0021,Paulo Moreira,Aveiro,PME,1,2021-01-19,True
+C0022,Rita Barros,Evora,Particular,2,2022-09-28,True
+C0022,Rita Barros,Lisboa,Particular,1,2021-03-03,True
+C0022,Rita Barros,Coimbra,Particular,3,2022-02-19,True
+C0023,Diogo Teixeira,Setubal,Particular,3,2022-05-07,True
+C0023,Diogo Teixeira,Coimbra,Particular,1,2022-07-05,True
+C0023,Diogo Teixeira,Leiria,Particular,2,2022-02-01,False
+C0024,Marta Cunha,Viseu,Particular,3,2021-09-09,True
+C0024,Marta Cunha,Faro,Particular,1,2021-04-12,True
+C0024,Marta Cunha,Braga,Particular,2,2022-09-23,True
+C0025,Goncalo Monteiro,Porto,Particular,3,2021-05-04,True
+C0025,Goncalo Monteiro,Viseu,Particular,1,2021-05-10,True
+C0025,Goncalo Monteiro,Faro,Particular,2,2021-11-21,True
+C0026,Helena Fonseca,Porto,PME,2,2022-05-02,True
+C0026,Helena Fonseca,Faro,PME,3,2021-11-09,True
+C0026,Helena Fonseca,Leiria,PME,1,2022-09-01,True
+C0027,Sergio Rocha,Braga,Particular,3,2021-06-19,True
+C0028,Vanessa Cardoso,Aveiro,Particular,1,2022-01-12,True
+C0028,Vanessa Cardoso,Coimbra,Particular,3,2021-06-25,False
+C0029,Frederico Lima,Braga,PME,3,2021-07-01,True
+C0029,Frederico Lima,Faro,PME,1,2022-11-28,True
+C0029,Frederico Lima,Aveiro,PME,2,2021-12-04,False
+C0030,Joana Borges,Coimbra,Particular,2,2021-08-12,True
+C0031,Empresa XYZ Lda,Lisboa,PME,1,2021-07-11,True
+C0032,Construtora ABC SA,Faro,Particular,2,2022-11-27,True
+C0033,Tech Solutions Lda,Aveiro,Particular,1,2021-10-09,True
+C0034,Retail Group SA,Setubal,Private Banking,3,2022-12-26,True
+C0035,Farmacias Norte Lda,Setubal,Private Banking,3,2021-05-02,False
+C0035,Farmacias Norte Lda,Lisboa,Private Banking,1,2021-06-14,True
+C0036,Auto Pecas Sul SA,Aveiro,Corporate,2,2022-11-14,True
+C0036,Auto Pecas Sul SA,Setubal,Corporate,3,2022-09-05,True
+C0036,Auto Pecas Sul SA,Setubal,Corporate,1,2022-11-24,True
+C0037,Logistica Central Lda,Viseu,Particular,3,2021-05-10,True
+C0037,Logistica Central Lda,Setubal,Particular,2,2022-08-15,False
+C0037,Logistica Central Lda,Coimbra,Particular,1,2022-12-06,True
+C0038,Hotel Atlantico SA,Porto,Particular,3,2021-11-10,True
+C0038,Hotel Atlantico SA,Coimbra,Particular,2,2021-01-02,True
+C0039,Clinica Saude Lda,Leiria,PME,3,2022-11-19,True
+C0039,Clinica Saude Lda,Setubal,PME,1,2022-07-08,True
+C0040,Media Digital SA,Setubal,Particular,3,2021-03-26,False
+C0040,Media Digital SA,Lisboa,Particular,1,2021-02-15,True
+C0040,Media Digital SA,Leiria,Particular,2,2022-08-20,False
+C0041,Imobiliaria Prata Lda,Leiria,Particular,2,2022-04-27,True
+C0041,Imobiliaria Prata Lda,Viseu,Particular,1,2022-11-08,True
+C0041,Imobiliaria Prata Lda,Leiria,Particular,3,2021-12-10,True
+C0042,Exportadora PT SA,Viseu,Particular,2,2021-03-05,True
+C0042,Exportadora PT SA,Setubal,Particular,3,2021-12-07,True
