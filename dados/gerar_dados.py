@@ -6,7 +6,7 @@ import random, os
 random.seed(42)
 np.random.seed(42)
 
-OUT = "/home/claude/AurumCap/dados"
+OUT = os.path.join(os.path.dirname(__file__), ".")
 
 # --- Marcas do Grupo ---
 marcas = [
